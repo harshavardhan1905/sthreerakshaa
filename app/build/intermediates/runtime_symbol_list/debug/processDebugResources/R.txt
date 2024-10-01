@@ -3010,6 +3010,7 @@ int drawable design_snackbar_background 0x7f070086
 int drawable ic_arrow_back_black_24 0x7f070087
 int drawable ic_clear_black_24 0x7f070088
 int drawable ic_clock_black_24dp 0x7f070089
+int drawable ic_close_con 0x7f0700e4
 int drawable ic_keyboard_black_24dp 0x7f07008a
 int drawable ic_launcher_background 0x7f07008b
 int drawable ic_launcher_foreground 0x7f07008c
@@ -3167,6 +3168,7 @@ int id action_menu_presenter 0x7f08003f
 int id action_mode_bar 0x7f080040
 int id action_mode_bar_stub 0x7f080041
 int id action_mode_close_button 0x7f080042
+int id action_nav_home_self 0x7f080206
 int id action_settings 0x7f080043
 int id action_text 0x7f080044
 int id actions 0x7f080045
