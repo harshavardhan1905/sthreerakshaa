@@ -13,13 +13,13 @@
     <dimen name="nav_header_height">176dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <string name="action_settings">Settings</string>
-    <string name="app_name">sthriraksha</string>
+    <string name="app_name">User-name</string>
     <string name="menu_close_contact">Close contacts</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_home">Home</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_subtitle">user@gmail.com</string>
     <string name="nav_header_title">SthreeRaksha</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
