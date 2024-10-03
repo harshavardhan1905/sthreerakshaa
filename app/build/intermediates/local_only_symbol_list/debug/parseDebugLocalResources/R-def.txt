@@ -17,6 +17,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_menu_camera
 drawable ic_menu_gallery
+drawable ic_menu_location
 drawable ic_menu_slideshow
 drawable side_nav_bar
 id action_nav_home_self
@@ -26,10 +27,11 @@ id drawer_layout
 id fab
 id imageView
 id mobile_navigation
+id nav_contact
 id nav_gallery
 id nav_home
 id nav_host_fragment_content_main
-id nav_slideshow
+id nav_location
 id nav_view
 id textView
 id text_gallery
@@ -53,7 +55,7 @@ string app_name
 string menu_close_contact
 string menu_gallery
 string menu_home
-string menu_slideshow
+string menu_location
 string nav_header_desc
 string nav_header_subtitle
 string nav_header_title

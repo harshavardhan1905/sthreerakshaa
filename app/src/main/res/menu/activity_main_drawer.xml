@@ -13,8 +13,7 @@
             android:icon="@drawable/ic_close_con"
             android:title="@string/menu_close_contact" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/menu_location" />
     </group>
 </menu>
